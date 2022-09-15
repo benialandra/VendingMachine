@@ -74,6 +74,8 @@
         if (qty > qrp) {
             alert("stock sedikit");
             document.getElementById("jumrp").value = 0;
+        } else if (qty == "") {
+            alert("data null");
         } else {
             alert(result);
         }
