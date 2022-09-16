@@ -5,11 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         
-        {
-            "type": "pwa-msedge",
-            "request": "launch",
-            "name": "Open VendingMachine.html",
-            "file": "d:\\Project\\fulljs\\VendingMachine.html"
-        }
+        
     ]
 }
